@@ -6,7 +6,7 @@ The brandâ€™s Sales and Marketing team would like to understand their customerâ€
 
 More specifically, they would like to learn the characteristics of customer groups.
 
-Experimental Design
+**Experimental Design
 
 Problem Definition
 
@@ -32,11 +32,11 @@ Challenge the Solution
 
 Follow up Questions
 
-Dataset Info
+**Dataset Info*
 
 The dataset for this project can be found here: link text
 
-Setup/Installation Requirements
+**Setup/Installation Requirements**
 
 R programming
 
