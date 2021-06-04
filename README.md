@@ -6,7 +6,7 @@ The brandâ€™s Sales and Marketing team would like to understand their customerâ€
 
 More specifically, they would like to learn the characteristics of customer groups.
 
-**Experimental Design
+**Experimental Design**
 
 Problem Definition
 
@@ -18,7 +18,7 @@ Perform Data Cleaning
 
 Perform Exploratory Data Analysis (Univariate, Bivariate & Multivariate)
 
-Implement the Solution:
+**Implement the Solution:**
 
 K-Means Clustering,
 
@@ -32,7 +32,7 @@ Challenge the Solution
 
 Follow up Questions
 
-**Dataset Info*
+**Dataset Info**
 
 The dataset for this project can be found here: link text
 
