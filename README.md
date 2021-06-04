@@ -47,3 +47,9 @@ Github
 **Contact Details**
 
 https://github.com/PriscillaMuli
+
+
+**License**
+{MIT License. See below for more details on licensing.}
+
+Copyright (c) {2021} {Moringa School Data Science Core}
