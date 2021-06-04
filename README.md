@@ -34,14 +34,16 @@ Follow up Questions
 
 **Dataset Info**
 
-The dataset for this project can be found here: link text
+The dataset for this project can be found here: http://bit.ly/EcommerceCustomersDataset
 
 **Setup/Installation Requirements**
 
 R programming
 
-Environments : Google colaboratory environment / R Studio
+Environments : Google Colaboratory environment 
 
 Github
 
-Contact details
+**Contact Details**
+
+https://github.com/PriscillaMuli
